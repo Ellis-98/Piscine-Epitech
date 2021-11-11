@@ -1,0 +1,56 @@
+task13
+├── 1910s
+│   ├── 1911 -> ../Solvay\ Conferences\ on\ Physics/The\ theory\ of\ radiation\ and\ quanta
+│   └── 1913 -> ../Solvay\ Conferences\ on\ Physics/The\ structure\ of\ matter
+├── 1920s
+│   ├── 1921 -> ../Solvay\ Conferences\ on\ Physics/Atoms\ and\ electrons
+│   ├── 1924 -> ../Solvay\ Conferences\ on\ Physics/Electric\ conductivity\ of\ metals\ and\ related\ problems
+│   └── 1927 -> ../Solvay\ Conferences\ on\ Physics/Electrons\ and\ photons
+├── 1930s
+│   ├── 1930 -> ../Solvay\ Conferences\ on\ Physics/Magnetism
+│   ├── 1931 -> ../Solvay\ Conferences\ on\ Chemistry/Constitution\ and\ Configuration\ of\ Organic\ Molecules
+│   ├── 1934 -> ../Solvay\ Conferences\ on\ Chemistry/Oxygen,\ and\ its\ chemical\ and\ biological\ reactions
+│   └── 1937 -> ../Solvay\ Conferences\ on\ Chemistry/Vitamins\ and\ Hormones
+├── 1940s
+│   └── 1947 -> ../Solvay\ Conferences\ on\ Chemistry/Isotopes
+├── 1950s
+├── Professors
+│   ├── Frédéric\ Swarts
+│   ├── Hendrik\ Lorentz
+│   ├── Paul\ Karrer
+│   ├── Paul\ Langevin
+│   └── William\ Jackson\ Pope
+├── Solvay\ Conferences\ on\ Chemistry
+│   ├── Constitution\ and\ Configuration\ of\ Organic\ Molecules
+│   │   └── chair -> ../../Professors/William\ Jackson\ Pope
+│   ├── Isotopes
+│   │   ├── chair -> ../../Professors/Paul\ Karrer
+│   │   └── participants
+│   ├── Oxygen,\ and\ its\ chemical\ and\ biological\ reactions
+│   │   └── chair -> ../../Professors/William\ Jackson\ Pope
+│   └── Vitamins\ and\ Hormones
+│       └── chair -> ../../Professors/Frédéric\ Swarts
+└── Solvay\ Conferences\ on\ Physics
+    ├── Atoms\ and\ electrons
+    │   └── chair -> ../../Professors/Hendrik\ Lorentz
+    ├── Electric\ conductivity\ of\ metals\ and\ related\ problems
+    │   └── chair -> ../../Professors/Hendrik\ Lorentz
+    ├── Electrons\ and\ photons
+    │   ├── chair -> ../../Professors/Hendrik\ Lorentz
+    │   └── participants
+    │       ├── A.\ Einstein
+    │       ├── E.\ Schrodinger
+    │       ├── H.A.\ Lorentz
+    │       ├── M.\ Planck
+    │       ├── M.\ Sklodowska-Curie
+    │       ├── N.\ Bohr
+    │       ├── W.\ Heisenberg
+    │       └── W.L.\ Bragg
+    ├── Magnetism
+    │   └── chair -> ../../Professors/Paul\ Langevin
+    ├── The\ structure\ of\ matter
+    │   └── chair -> ../../Professors/Hendrik\ Lorentz
+    └── The\ theory\ of\ radiation\ and\ quanta
+        └── chair -> ../../Professors/Hendrik\ Lorentz
+
+30 directories, 23 files
